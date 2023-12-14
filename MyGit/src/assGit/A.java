@@ -5,5 +5,7 @@ public class A {
 		System.out.println("This is Git Assignment!");
 		System.out.println("This is the revised version of A.java.");
 		System.out.println("A changed in master branch.");
+		B name = new B();
+		name.sayMyName("WonYuRim");
 	}
 }
