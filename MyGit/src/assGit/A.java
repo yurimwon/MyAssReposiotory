@@ -7,5 +7,6 @@ public class A {
 		System.out.println("A changed in master branch.");
 		B name = new B();
 		name.sayMyName("WonYuRim");
+		System.out.println("A changed in master branch again.(devC)")
 	}
 }
